@@ -8,7 +8,7 @@
   padding-top: 70px;
 }
 
-.movie {
+.details .movie {
   background-color: white;
   margin-bottom: 70px;
   font-weight: 300;
@@ -19,10 +19,10 @@
     0 8px 16px -8px rgba(0, 0, 0, 0.3), 0 -6px 16px -6px rgba(0, 0, 0, 0.025);
 }
 
-.movie img {
+.details .movie img {
   position: relative;
   top: -50px;
-  max-width: 150px;
+  max-width: 300px;
   width: 100%;
   margin-right: 30px;
   box-shadow: 0 30px 60px -12px rgba(50, 50, 93, 0.25),
